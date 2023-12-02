@@ -1,0 +1,64 @@
+/*---------------------------------FOOter------------------------------------*/
+.Footer{
+    padding: 40px 0px;
+    background-color: black;
+    color: white;
+}
+.Footer .social{
+    text-align: center;
+    padding-bottom: 25px;
+    color: white;
+}
+.Footer .social a{
+
+    font-size: 25px;
+    color: inherit;
+    border: 1px solid #ccc;
+    width: 50px;
+    height: 50px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 7px;
+    opacity: 0.75;
+}
+.Footer .social a:hover{
+    opacity: 0.9;
+}
+.Footer ul{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+    text-align: center;
+}
+.Footer ul li a{
+    color: inherit;
+    text-decoration: wavy;
+    opacity: 0.8;
+}
+.Footer ul li{
+    display: inline-block;
+    padding: 0 15px;
+}
+.Footer ul li a:hover{
+    opacity: 2;
+}
+.Footer .copyright{
+    margin: 15px;
+    text-align: center;
+    font-size: 15px;
+    color: #aaa;
+}
+.abt{
+    margin-bottom: 60px;
+}
+.Ratings{
+    margin-top: 60px;
+}
+.Feedback{
+    margin-top: 60px;
+}
